@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 from fabric import task
 from datetime import datetime
 import os
